@@ -1,3 +1,27 @@
+Metadata-Version: 2.4
+Name: MOODS-python
+Version: 1.9.4.1
+Summary: MOODS: Motif Occurrence Detection Suite
+Home-page: https://www.cs.helsinki.fi/group/pssmfind/
+Maintainer: Janne H. Korhonen
+Maintainer-email: janne.h.korhonen@gmail.com
+License: GPLv3 / Biopython license
+Keywords: PWM,PSSM,motif scan
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Description-Content-Type: text/markdown
+License-File: COPYING.BIOPYTHON
+License-File: COPYING.GPLv3
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: summary
+
 MOODS-python 1.9.4.1
 ====================
 
